@@ -59,6 +59,15 @@ We will create a sign in screen where you can enter your name, create groups whe
 6. Within the app "to start the app via an IOS Emulator." run: expo start --ios 
 
 
+# Some Screenshots For The App: 
+
+![Ekran görüntüsü_20230121_011903](https://user-images.githubusercontent.com/75726215/213822602-c9ae48ec-3e78-4857-941d-dce7785a26f7.png)
+![Ekran görüntüsü_20230121_011952](https://user-images.githubusercontent.com/75726215/213822611-ac50f201-8c73-4554-bb9b-c3f437d1faa4.png)
+![Ekran görüntüsü_20230121_012024](https://user-images.githubusercontent.com/75726215/213822629-1ebf03c1-1935-471f-b220-2f38aa35494c.png)
+![Ekran görüntüsü_20230121_012138](https://user-images.githubusercontent.com/75726215/213822645-1741b66c-1110-402b-bd9e-519f142eccd0.png)
+![Ekran görüntüsü_20230121_012635](https://user-images.githubusercontent.com/75726215/213822669-dab3f0eb-5e4a-4fa7-98e7-bcf7eb0f5b8e.png)
+![Ekran görüntüsü_20230121_012942](https://user-images.githubusercontent.com/75726215/213822680-fc52bc18-f2a1-4c00-a712-c58db427bd27.png)
+![Ekran görüntüsü_20230121_013002](https://user-images.githubusercontent.com/75726215/213822686-7c34b33a-e55a-46c7-995a-0cd59ae968d5.png)
 
 
 
