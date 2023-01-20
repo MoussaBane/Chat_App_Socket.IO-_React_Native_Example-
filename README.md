@@ -13,35 +13,38 @@ We will create a sign in screen where you can enter your name, create groups whe
 
 * CORS: is a Node.js package that allows communication between different domains.
 
-* Nodemon: is a Node.js tool that automatically restarts the server after detecting file changes, and Socket.io allows us to configure a real-time connection on the server.
+* Nodemon: is a Node.js tool that automatically restarts the server after detecting file changes, and Socket.io allows us to configure a real-time connection on the     server.
 
-* Async Storage: is a React Native package used to store string data in native applications. It is similar to the local storage on the web and can be used to store tokens and 
+* Async Storage: is a React Native package used to store string data in native applications. It is similar to the local storage on the web and can be used to store       tokens and 
   various data in string format.
 
 * React Navigation: allows us to navigate from one screen to another within a React Native application.
   
-# Install Socket.io Client API to the React Native app
+  # Install Socket.io Client API to the React Native app
 
    cd app
+   
    expo install socket.io-client
 
-# Install React Navigation and its dependencies
+  # Install React Navigation and its dependencies
 
    npm install @react-navigation/native
+   
    npx expo install react-native-screens react-native-safe-area-context
    
-# Setting up the Socket.io Node.js server
+  # Setting up the Socket.io Node.js server
 
-* Navigate into the server folder and create a package.json file: 
-  cd server & npm init -y
+   * Navigate into the server folder and create a package.json file: 
+   
+     cd server & npm init -y
 
-# Install Express.js, CORS, Nodemon, and Socket.io Server API
+  # Install Express.js, CORS, Nodemon, and Socket.io Server API
 
-  npm install express cors nodemon socket.io
+    npm install express cors nodemon socket.io
 
-#  Install Async Storage
+  # Install Async Storage
 
-  expo install @react-native-async-storage/async-storage
+    expo install @react-native-async-storage/async-storage
   
   
   
